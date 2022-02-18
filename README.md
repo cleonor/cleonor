@@ -1,5 +1,5 @@
 ### Leonor Cascais
-[![homepage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonorcascais/ "Redirect to homepage")
+[![homepage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/leonor-cascais-58532422b "Redirect to homepage")
 
 
 <!--
